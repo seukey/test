@@ -1,0 +1,14 @@
+com\song\crud\bean\EmployeeExample$Criterion.class
+com\song\crud\bean\EmployeeExample$Criteria.class
+com\song\crud\controller\EmployeeController.class
+com\song\crud\service\EmployeeService.class
+com\song\crud\bean\EmployeeExample$GeneratedCriteria.class
+com\song\crud\bean\DepartmentExample$Criteria.class
+com\song\crud\bean\Department.class
+com\song\crud\bean\EmployeeExample.class
+com\song\crud\bean\DepartmentExample.class
+com\song\crud\bean\Employee.class
+com\song\crud\bean\DepartmentExample$GeneratedCriteria.class
+com\song\crud\dao\EmployeeMapper.class
+com\song\crud\bean\DepartmentExample$Criterion.class
+com\song\crud\dao\DepartmentMapper.class
